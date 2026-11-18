@@ -1,0 +1,5 @@
+.venv-audioldm/
+audioldm_demo/.cache/
+audioldm_demo/results/
+__pycache__/
+*.pyc
